@@ -1,0 +1,14 @@
+---
+title: "Research Library"
+author: "John"
+description: |
+  A place for books, articles, papers for research
+date: "2023-02-05"
+categories: [news, code, analysis]
+params:
+  slug: research-library
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
